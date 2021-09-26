@@ -7,6 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am currently persuing a career in data science within techology or business organisations.
   <br><br>
   <a href="https://www.linkedin.com/in/matthew-aitchison-10b40a157">View My LinkedIn Profile</a> 
+  <br>
   <a href="https://github.com/MWAitchison">View My GitHub Profile</a> 
   
 theme: jekyll-theme-minimal
