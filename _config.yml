@@ -9,7 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/matthew-aitchison-10b40a157">View My LinkedIn Profile</a> 
   <br>
   <a href="https://github.com/MWAitchison">View My GitHub Profile</a> 
-  
+  <br>
   <a href="https://www.kaggle.com/matthewaitchison"> View My Kaggle Profile </a>
   
 theme: jekyll-theme-minimal
