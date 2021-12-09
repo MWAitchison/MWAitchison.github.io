@@ -5,8 +5,10 @@
 ### R Projects 
 
 [House Price Data](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<img align="left" src="images/Heatmap.png?raw=true"/>
+<img align="right" src="images/Average House Price for Each Borough.jpeg?raw=true"/>
+<img align="left" src="images/Simply Clustered Sold House Prices.jpeg?raw=true"/>
+<img align="right" src="images/Clustered ARIMA models.png?raw=true"/>
 
 ---
 
