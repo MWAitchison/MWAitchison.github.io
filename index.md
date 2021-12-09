@@ -4,27 +4,7 @@
 
 ### R Projects 
 
-[House Price Data](/sample_page)
-<img 
-    align="left" 
-    width="200" 
-    src="images/Heatmap.png?raw=true"
-    />
-<img 
-    align="right"
-    width="200"
-    src="images/Average House Price for Each Borough.jpeg?raw=true"
-    />
-<img 
-    align="left" 
-    width="200" 
-    src="images/Simply Clustered Sold House Prices.jpeg?raw=true"
-    />
-<img 
-    lign="right" 
-    width="200" 
-    src="images/Clustered ARIMA models.png?raw=true"
-    />
+
 
 ---
 
@@ -38,8 +18,18 @@
 
 ---
 
+### Univeristy of Exeter Dissertation
+#### 'Which London Borough Will See the Greatest Increase inHouse Prices Over the Next Five Years?'
+##### In Partial Fulfillment of the Requirements for the Degree of Applied Data Science and Statistics UNIVERSITY OF EXETER
 
-
+[House Price Data](pdf/London_House_Price_Predictions.pdf)
+<b>
+</b>
+<img 
+    align="left"
+    width = 500 
+    src="images/Heatmap.png?raw=true"
+    />
 
 ---
 
