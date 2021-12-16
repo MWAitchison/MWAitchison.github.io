@@ -3,7 +3,7 @@
 ---
 
 ### R Projects 
-
+ - [Clustering Project](pages/Clustering.md)
 
 
 ---
