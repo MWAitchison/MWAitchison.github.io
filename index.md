@@ -4,11 +4,12 @@
 
 ### R Projects 
  - [Clustering Project](pages/Clustering.md)
+ - [House Price Precitions](pages/Price_Predictions.md)
 
 
 ---
 
-### Pyton Projects
+### Python Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -19,7 +20,7 @@
 ---
 
 ### Univeristy of Exeter Dissertation
-#### 'Which London Borough Will See the Greatest Increase inHouse Prices Over the Next Five Years?'
+#### 'Which London Borough Will See the Greatest Increase in House Prices Over the Next Five Years?'
 ##### In Partial Fulfillment of the Requirements for the Degree of Applied Data Science and Statistics UNIVERSITY OF EXETER
 
 [House Price Data](pdf/London_House_Price_Predictions.pdf)
