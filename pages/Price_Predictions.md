@@ -26,9 +26,9 @@ HousePriceIndex <− read.csv ("Data/UK_House_price_index.csv")
 HousePriceIndex
 ## S e l e c t i n g only the London Boroughs and renaming Data column
 AveragePrice <− HousePriceIndex [−1,c(1,3:34)] %>%
-rename ( Date = X)
+rename(Date = X)
 # Convert to dataframe
-AveragePrice <− as.data.frame(apply(AveragePrice,2,as.numeric) )
+AveragePrice <− as.data.frame(apply(AveragePrice,2,as.numeric))
 ```
 
 
