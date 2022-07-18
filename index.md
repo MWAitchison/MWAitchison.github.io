@@ -20,7 +20,7 @@
 
 ---
 
-### Univeristy of Exeter Dissertation
+### University of Exeter Dissertation
 #### 'Which London Borough Will See the Greatest Increase in House Prices Over the Next Five Years?'
 ##### In Partial Fulfillment of the Requirements for the Degree of Applied Data Science and Statistics UNIVERSITY OF EXETER
 
