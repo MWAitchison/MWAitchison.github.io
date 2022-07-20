@@ -5,14 +5,17 @@
 
 ### R Projects 
  - [Clustering Project](pages/Clustering.md)
- - [House Price Precitions](pages/Price_Predictions.md)
+ - [House Price Prections](pages/Price_Predictions.md)
  - [Spotify Playlist](pages/)
 
 ---
- 
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+ ### Python Projects
+- [Project 1 Title](http://example.com/)
+
+---
+
+ ### Excel Projects
+- [Project 1 Title](http://example.com/)
 
 ---
 
