@@ -10,12 +10,12 @@
 
 ---
 ### Python Projects
-- [Project 1 Title](http://example.com/)
+- [Route Planner](http://example.com/)
 
 ---
 
 ### Excel Projects
-- [Project 1 Title](http://example.com/)
+- [Example Dashboard](http://example.com/)
 
 ---
 
